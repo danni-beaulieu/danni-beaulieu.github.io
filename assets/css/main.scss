@@ -41,3 +41,13 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Sticky footer: anchor footer to bottom of viewport on short-content pages.
+   html already has position:relative and min-height:100%, and body has
+   padding-bottom:9em to reserve space, so we just need to pin the footer. */
+.page__footer {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
