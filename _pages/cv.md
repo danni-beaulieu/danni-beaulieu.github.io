@@ -17,7 +17,7 @@ redirect_from:
 
 ## OBJECTIVE
 
-I am a doctoral student at Washington University in Saint Louis studying computer science and machine learning. I want to leave a positive mark on the world by creating a product or research that is remembered and protects or uplifts those touched by it.
+I am a doctoral student in the Multimodal Vision Research Laboratory at Washington University in Saint Louis studying computer science and machine learning with long-term interests in deep learning, remote sensing, autonomous systems, and computer vision.
 
 ## EDUCATION
 
@@ -59,7 +59,10 @@ Tools: Python (Numpy, Pandas, Scikit, PyTorch), AWS, Spring, Maven, JS (Node, Ex
 
 ## EXPERIENCE
 
-**Research Assistant, Saint Louis University Computer Vision Lab. Saint Louis, MO. November 2025 – Present.**  
+**Graduate Research Assistant, WashU Multimodal Vision Research Lab. Saint Louis, MO. January 2026 – Present.**  
+§ Develop multimodal representation learning and computer vision techniques to interpret complex data at a global scale 
+
+**Research Assistant, Saint Louis University Computer Vision Lab. Saint Louis, MO. November 2025 – January 2026.**  
 § Research deep learning methods to aid agricultural tasks like tracking root volumes and estimating crop yields  
 
 **Senior Software Engineer, Disney. Remote, Saint Louis, MO. FTE, September 2023 – August 2024.**  
